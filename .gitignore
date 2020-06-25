@@ -1,0 +1,11 @@
+/.dart_tool
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.git
+/.idea
+/.metadata
+/.packages
+/attendance_webapp.iml
+/ios
+/pubspec.lock
+/test
